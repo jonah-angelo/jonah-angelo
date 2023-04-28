@@ -2,8 +2,22 @@
 
 I'm Jonah Angelo, a software engineer from Washington! 
 
-My skills include:
-:javaScript: JavaScript
+🖥 Skills 🖥 
+
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
+- HTML
+- CSS
+- Git
+- GitHub
+- Python
+- Django
+- MongoDB
+- Mongoose
+- Postman
 
 
 
