@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Jonah Angelo, a software engineer from Washington! 
+
+My skills include:
+:javaScript: JavaScript
+
+
+
 <!--
 **jonah-angelo/jonah-angelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
